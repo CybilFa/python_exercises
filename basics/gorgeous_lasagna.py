@@ -3,7 +3,7 @@ def bake_time_remaining(actual_minutes):
     return EXPECTED_BAKE_TIME - actual_minutes
 
 def preparation_time_in_minutes(num_of_layers):
-    return num_of_layers * 2
+    return num_of_layers * 2      
 
 def elapsed_time_in_mins(num_of_layers, elapsed_bake_time):
       """Calculate the elapsed cooking time.

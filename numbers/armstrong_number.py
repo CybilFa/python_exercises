@@ -1,6 +1,7 @@
 # check whether a number is armstrong or not
 # sum each digit raised to power num of digits
 
+
 def is_armstrong(number):
     digits = str(number)
     num_digits = len(digits)

@@ -11,4 +11,3 @@ print(translate("apple"))
 print(translate("xray"))    
 print(translate("yttria"))
 
-    
